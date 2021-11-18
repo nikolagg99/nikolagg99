@@ -9,7 +9,7 @@
   Currently studying Software Engineering at <b><i>Plovdiv University "Paisii Hilendarski"</i></b>
 </p>
 <p align="center">
-  A fast learner with strong time management, multi-tasking and communicating skills. Interested mainly in developing web applications.
+  A fast learner with strong time management, multi-tasking and communicating skills.<br/> Interested mainly in developing web applications.
 </p>
 
 
