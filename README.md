@@ -6,7 +6,10 @@
     Web developer
 </h4>
 <p align="center">
-  Currently studying Software Engineering at <b><i>Plovdiv University "Paisii Hilendarski"</i></b>
+  Graduated from <b><i>Plovdiv University "Paisii Hilendarski"</i></b> with a Bachelor's degree in <b><i>Software Ingeneering"</i></b>.
+</p>
+<p align="center">
+  Currently working as Web Developer at <b><i>Elevate Company Ltd</i></b>.
 </p>
 <p align="center">
   A fast learner with strong time management, multi-tasking and communicating skills.<br/> Interested mainly in developing web applications.
